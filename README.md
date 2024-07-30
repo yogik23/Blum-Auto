@@ -97,6 +97,9 @@ rm -rf blum.json && nano blum.json
 npm install
 ```
 ```
+npm audit fix --force
+```
+```
 node index.js
 ```
 
